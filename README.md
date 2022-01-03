@@ -3,5 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas:
 
 - Strogonoff de Frango
-- Xananaia
-
+- DoCe de Batata Doce
